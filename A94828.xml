@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of certaine nevvs from the west of Ireland. Conteining, 1 The treasonable intents of the Irish rebels, to crown Sir Philome Oneale King of Ireland. And how his crown is taken and carried to the Parliament, the 9 of Iune. 2 The taking and demolishing of the Lord Barramoore's house, called Castle Lyon, by the three arch rebels the Lord Roach, the Lord Musgrave, and Mac. Donah. 3 An allarme given at the wals at Bandonbridge, by Macharta Rhe, and 10000 rebels, how they were repulsed, what numbers were slaine and what pillage was taken. With other remarkable things. Sent in a letter by Sir Robert Trevers, from Bandonbridge, the third of Iune 1642, to Lieutenant Iames Finch, in London.</title>
+            <author>Travers, Robert, Sir.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94828</idno>
+            <idno type="STC">Wing T2133</idno>
+            <idno type="STC">Thomason E150_2</idno>
+            <idno type="STC">ESTC R15281</idno>
+            <idno type="EEBO-CITATION">99859831</idno>
+            <idno type="PROQUEST">99859831</idno>
+            <idno type="VID">156744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of certaine nevvs from the west of Ireland. Conteining, 1 The treasonable intents of the Irish rebels, to crown Sir Philome Oneale King of Ireland. And how his crown is taken and carried to the Parliament, the 9 of Iune. 2 The taking and demolishing of the Lord Barramoore's house, called Castle Lyon, by the three arch rebels the Lord Roach, the Lord Musgrave, and Mac. Donah. 3 An allarme given at the wals at Bandonbridge, by Macharta Rhe, and 10000 rebels, how they were repulsed, what numbers were slaine and what pillage was taken. With other remarkable things. Sent in a letter by Sir Robert Trevers, from Bandonbridge, the third of Iune 1642, to Lieutenant Iames Finch, in London.</title>
+                  <author>Travers, Robert, Sir.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Marsh,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barrymore, David Fitz-David Barry, --  Earl of, 1605-1642 --  Early works to 1800.</term>
+               <term>Musgrave, --  Lord --  Early works to 1800.</term>
+               <term>O'Neill, Phelim, --  Sir, 1604?-1653 --  Early works to 1800.</term>
+               <term>Roche, Maurice, --  Viscount Fermoy, 1595?-1660? --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156744:1"/>
+            <pb facs="tcp:156744:1" rendition="simple:additions"/>
+            <p>
+               <hi>A TRUE RELATION OF Certaine Nevvs from the VVeſt of IRELAND.</hi>
+            </p>
+            <p>
+               <hi>CONTEINING,</hi>
+               <list>
+                  <item>1 The Treaſonable intents of the Iriſh Rebels, to Crown Sir <hi>Philome Oneale</hi> King of <hi>Ireland.</hi> And how his Crown is taken and car<g ref="char:EOLhyphen"/>ried to the <hi>Parliament,</hi> this <hi>9</hi> of <hi>Iune.</hi>
+                  </item>
+                  <item>2 The taking and demoliſhing of the Lord <hi>Barramoore's</hi> houſe, called <hi>Caſtle Lyon,</hi> by the three arch Rebels the Lord <hi>Roach,</hi> the Lord <hi>Muſgrave,</hi> and Mac: Donah.</item>
+                  <item>3 An Allarme given at the wals at Bandonbridge, by <hi>Macharta Rhe,</hi> and <hi>10000</hi> Rebels, how they were repulſed, what numbers were ſlaine and what pillage was taken. With other remarkable things.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Sent in a Letter by Sir</hi> Robert Trevers, <hi>from</hi> Bandon<g ref="char:EOLhyphen"/>bridge, <hi>the third of</hi> Iune <hi>1642, to Lieutenant</hi> Iames Finch, <hi>in</hi> London.</p>
+            <p>LONDON, <hi>Printed for</hi> Henry Marſh, <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156744:2"/>
+            <pb n="1" facs="tcp:156744:2"/>
+            <head>A True Relation of certaine News from the VVeſt of <hi>Ireland.</hi>
+            </head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Ee are here in dryly troubles, and houſely feares; the ſtrength and numbers of the Rebels dayly in<g ref="char:EOLhyphen"/>creſing, who are mightily encou<g ref="char:EOLhyphen"/>raged by the diſſentions which is a<g ref="char:EOLhyphen"/>mongſt you in <hi>England;</hi> and con<g ref="char:EOLhyphen"/>trarywiſe, it doth much diſharten us: for your diſſentions are our ruines, and your inteſtine b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyles will be the utter loſſe of this State and Kingdome. No queſtion it is for our ſinnes that God doth thus afflict us, and in his good time he will alſo releaſe us from this miſerable calamity. We wonder we have no ſupplies from <hi>England,</hi> which were expected here, a great while ſince, but whilſt we look for aide (for any thing I can ſee) this Kingdome will be irrecoverably loſt; for we wan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men, money, and in ſome ſort victu<g ref="char:EOLhyphen"/>als, which God hath hitherto provided for us; the Re<g ref="char:EOLhyphen"/>bels
+<pb n="2" facs="tcp:156744:3"/>are grown ſo inſolent now, that they dare bouldly vent the rankor of their hearts, which they have hitherto concealed: Their intents are abſolutely to throw off the <hi>Engliſh</hi> Government, and do intend to Crown a King of their own (as it is commonly talked here) and they are not afraid to name him, which is Sir <hi>Philome Oneale;</hi> he is that <hi>Perkin Warbeck</hi> that muſt weare the Royall Diadem of this Kingdome, and King CHARLES ſhall bee quite rejected, and all Proteſtants quite expelled out of <hi>Ireland:</hi> But we hope that High and Honourable Court of <hi>Parliament</hi> are ſenſible of that deluge of bloud that hath beene ſhed, from the ſides of miſerable Proteſtants: and will haſten the aides and ſuccours which they intend for us. I hope the King hath ſo many Frinds and loyall Sub<g ref="char:EOLhyphen"/>jects in <hi>England</hi> and other places, that they will not ſuffer ſo faire a Iewell to be raviſhed from His Regall Crown, to the King's great loſſe and diſhonour of His other Kingdomes.</p>
+            <p>The Rebels are mightily animated and encouraged by Letters, Bulls and Meſſages from the Pope, and that <hi>Baa<g ref="char:EOLhyphen"/>litica</hi> Conclave of Cardinals at <hi>Rome,</hi> who doth dayly exaſperate the over deſperate minds of theſe bloudy min<g ref="char:EOLhyphen"/>ded Rebels, who do abſolutly beleeve that now they ſhall ſhake off the <hi>Engliſh</hi> yoake (as they terme it) and reco<g ref="char:EOLhyphen"/>ver their long loſt Freedome; but God I truſt will prevent their wicked Counſels, and bring them and thoſe wicked <hi>Ahitophels</hi> their Counſellours, to the end that <hi>Ahito<g ref="char:EOLhyphen"/>phel</hi> had for his treaſon, for counſelling againſt his annoyn<g ref="char:EOLhyphen"/>ted Soveraigne.</p>
+            <p>
+               <hi>Macharta Rhe</hi> keeps his Rendeſvous at <hi>Timilage,</hi> ſix
+<pb n="3" facs="tcp:156744:3"/>or ſeven miles from us, but by the care and watchful<g ref="char:EOLhyphen"/>neſſe of the Lords of <hi>Kenelmeke</hi> and <hi>Droughull,</hi> hee hath often times retreated with loſſe of men and Mu<g ref="char:EOLhyphen"/>nition, and yet he ſeaſeth not to ſally out againſt us in <hi>Bandonbridge,</hi> which is all the Townes that hold firme for the <hi>Engliſh,</hi> betwixt it and <hi>Corke.</hi> Caſtle <hi>Ly<g ref="char:EOLhyphen"/>on,</hi> one of my Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>Barramoore's</hi> m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnour houſes, be<g ref="char:EOLhyphen"/>ing new built, and a ſtately houſe, about the 16 or 17 <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this inſtant <hi>May,</hi> was aſſaulted by the Lord <hi>Roach,</hi> the Lord <hi>Muſgrave,</hi> and <hi>Mac. Donah,</hi> who tooke it, and my Lord <hi>Barramoore</hi> in it, who was not able to defend it, they made pillage of all that was in the houſe, and then beate it down, utterly ruinating and burning all the matterials of the ſame, not leaving any thing that was good for ought; the Rebels ſwore and vowed to kill him, unleſſe he would turne to them (which they do ordinarily to every one they take) but he abſolutely bearing the ſame, theſe three arch-Rebels conſulted what they ſhould do, and concluded not to kill him, but taking every thing that was worth their carrying away, they left his Lordſhip with only one horſe, on which he rod to his Father the Earle of <hi>Corke.</hi>
+            </p>
+            <p>The 24 of this <hi>May,</hi> there was an Allarme given at the wals in the night, by <hi>Macharta Rhe,</hi> and ſome 10000 men, but to their ſhame and our comfort, we had of them a happy victory; for the Souldiers in the Town, being ready upon all occaſions (as knowing the Rebels had ſome deſigne in hand) was not ſlow in receiving them, but iſſued out againſt them (it being
+<pb n="4" facs="tcp:156744:4"/>the dawn of the day) and gave them battaile; and the courage and forwardneſſe of our men, being ſo great, that there was no need to provoke them on (as know<g ref="char:EOLhyphen"/>ing that they had made them fly when they were a far greater number) they rowted them, and killed them a pace: and thoſe miſerable men, being moſt <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them unarmed, and having bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall ſtore of powder, which is the he<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt of war, and being ſtill t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>rifie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the laſt bickering th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y had with the <hi>En<g ref="char:EOLhyphen"/>gliſh,</hi> they fell to an abſolute flight, which is ſtill their uſe, for they will not ſtand a battaile: My Lord of <hi>Kenelmeke</hi> was come to <hi>Bandonbridge</hi> the day before with 500 men, and the Towne Souldiers were 2000, beſide the Inhabitants, ſo that the enemies were al<g ref="char:EOLhyphen"/>moſt foure for one, yet by the helpe of God there were ſlaine of the Rebels 250 men, and we loſt but ſeven men in all, one of which the Rebels (notwith<g ref="char:EOLhyphen"/>ſtanding their flight) hurried away with them to <hi>Time-lage,</hi> where they put him to tortures, thinking to make him confes the ſtrength of the Town, but when they could not make him confeſſe, they hanged him. We tooke in this bickering 140 M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>skets, 100 Pikes, Swords, Skeen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and Piſtols a great many, three Cul<g ref="char:EOLhyphen"/>lers, ſome proviſion of Victuals and Powder, but not much: beſides the native Rebels here, who in great multitudes are aſſembled againſt His Majeſty, and His people; they have hope dayly of aide from the Pope, or ſome Prince whom the Pope can perſw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de to aide them in this Catholique Cauſe, for the Pope hath promiſed to aide them by any meanes tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e
+<pb n="5" facs="tcp:156744:4"/>can; but we hope that God will diſappoint his Coun<g ref="char:EOLhyphen"/>ſels, and bring his intentions to naught, and bring them and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Authors of his m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſchiefe to confuſion, to whom be praiſe and glory now and for ever.</p>
+            <p>You Father in Law (ſince my laſt Letter) is ſick, but we hope of his ſudd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in recovery; Your wife and children are all in good health, God be praiſed, Your brother in Law is gone to <hi>Dublin,</hi> and wee have not heard from him ſince he went, but do dayly expect to heare from him. We looke for your returne dayly, with a ſupply of men and money, which if it bee a while neglected, the lives of 100000 men will not recover that which their negligence will loſe. So truſting that God will ſtrike our brethrens hearts in <hi>England,</hi> with a feeling of our miſery, not knowing how ſoon the ſame may be theirs, if not in time pre<g ref="char:EOLhyphen"/>ven<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by the hearing of this Kingdome. I commit you to Gods protection, and reſt.</p>
+            <closer>
+               <signed>Your ever loving friend, <hi>Robert Trevers.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
